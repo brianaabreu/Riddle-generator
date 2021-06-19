@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <div className="title">
-        Riddle Generator
+        Joke Generator
       </div>
       <Generator />
     </div>
