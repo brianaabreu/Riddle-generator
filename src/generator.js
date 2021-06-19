@@ -62,6 +62,7 @@ function Generator() {
 
     return (
         <div className="buttonRiddle">
+            
             <div className="buttons">
 
                 <button className="riddles" onClick={riddles}>
